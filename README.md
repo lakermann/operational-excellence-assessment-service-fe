@@ -3,7 +3,7 @@
 [![Build](https://github.com/lakermann/operational-excellence-assessment/actions/workflows/ci.yml/badge.svg)](https://github.com/lakermann/operational-excellence-assessment/actions/workflows/ci.yml)
 [![Build](https://github.com/lakermann/operational-excellence-assessment/actions/workflows/cd.yml/badge.svg)](https://github.com/lakermann/operational-excellence-assessment/actions/workflows/cd.yml)
 
-_by [Lukas Akermann](https://github.com/lakermann)_
+_by [Lukas Akermann](https://github.com/lakermann), April 2025_
 
 If the foundation of a software system is not solid, structural problems can compromise its integrity and functionality.
 The [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html),
